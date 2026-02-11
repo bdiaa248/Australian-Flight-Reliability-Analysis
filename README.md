@@ -75,4 +75,4 @@ The goal is to provide **data-driven recommendations** for travelers and operati
 **Diaa Shousha**
 * **Role:** Data Analyst & AI Engineer
 * **Focus:** Turning raw data into strategic business stories.
-* [LinkedIn Profile](LINK_TO_YOUR_LINKEDIN)
+* [LinkedIn Profile]("https://www.linkedin.com/in/abdelrahman-diaa-080496334/")
