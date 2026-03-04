@@ -29,15 +29,15 @@ The goal is to provide **data-driven recommendations** for travelers and operati
 
 ### 1. Cancellation Distribution
 *Most flights run smoothly, but the "long tail" of outliers reveals days of major disruption.*
-![Distribution Plot](PLACEHOLDER_FOR_HISTOGRAM_IMAGE_LINK)
+![Distribution Plot](images/cancellation_distribution.png)
 
 ### 2. Airline Performance Comparison
 *A side-by-side comparison showing Qantas's stability vs. Jetstar's variability.*
-![Boxplot](PLACEHOLDER_FOR_BOXPLOT_IMAGE_LINK)
+![Airline Boxplot](images/airline_reliability_boxplot.png)
 
 ### 3. Heatmap of Disruption (Route vs. Month)
 *The "Red Zone" in June/July clearly marks the winter operational challenge.*
-![Heatmap](PLACEHOLDER_FOR_HEATMAP_IMAGE_LINK)
+![Heatmap](images/Heatmap of Disruption (Route vs. Month).png)
 
 ---
 
