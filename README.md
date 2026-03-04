@@ -33,11 +33,11 @@ The goal is to provide **data-driven recommendations** for travelers and operati
 
 ### 2. Airline Performance Comparison
 *A side-by-side comparison showing Qantas's stability vs. Jetstar's variability.*
-![Airline Boxplot](images/airline_reliability_boxplot.png)
+![Airline Performance](images/airline_performance_comparison.png)
 
 ### 3. Heatmap of Disruption (Route vs. Month)
 *The "Red Zone" in June/July clearly marks the winter operational challenge.*
-![Heatmap](images/Heatmap of Disruption (Route vs. Month).png)
+![Heatmap](images/route_month_disruption_heatmap.png)
 
 ---
 
